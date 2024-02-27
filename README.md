@@ -23,7 +23,7 @@
 
 [youtube]: https://www.youtube.com/c/naekm
 [instagram]: https://www.instagram.com/naekmejia
-[linkedin]: https://linkedin.com/in/shonnymejia
+[linkedin]: https://linkedin.com/in/jdsuarez2105
 
 <!--
 **naekm/naekmv** es un repositorio ✨ _special_ ✨ ya que el archivo `README.md` (este archivo ) aparece directamente en tu perfil de Github.
