@@ -2,7 +2,7 @@
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
-  - [Full Stack Web App: React, NodeJS, Azure, y componentes de Machine Learning ](https://github.com/jdsuarez11/calculadora) 
+  - [Proyecto calculadora](https://github.com/jdsuarez11/calculadora) 
   - [Active Directory Lab](https://github.com/naekmv/LabActiveDirectory) 
 
 
