@@ -8,7 +8,7 @@
 
 <h2>📄 Certificados </h2>
 
-- [PROTalento](https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/)
+- [Ciencia de datos con python](https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/)
 
 <h2>📺 Videos Demo</h2>
 
