@@ -1,5 +1,8 @@
 <h1>¡Hola, soy Juan Diego! <br/><a href="https://github.com/jdsuarez11">Data Analyst</a></h1>
 
+<h2>Sobre mí:</h2>
+Soy un apasionado por los datos 
+
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
   - [Proyecto calculadora](https://github.com/jdsuarez11/calculadora) 
@@ -9,6 +12,7 @@
 <h2>📄 Certificados </h2>
 
 - [Ciencia de datos con python](https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/)
+- [Inteligencia de negocios con Power BI]([https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/](https://wallet.xertify.co/certificates/2F3FEFBFC001)
 
 
 
