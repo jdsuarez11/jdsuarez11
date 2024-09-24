@@ -15,7 +15,7 @@
 - [Creando un portafolio en Github](https://www.youtube.com/)
 
 
-<h2> 🤳 Conecta conmigo:</h2>
+<h2> 🤳 Mis redes:</h2>
 
 [<img align="left" alt="Juan Diego Suárez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
