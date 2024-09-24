@@ -10,9 +10,6 @@
 
 - [Ciencia de datos con python](https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/)
 
-<h2>📺 Videos Demo</h2>
-
-- [Creando un portafolio en Github](https://www.youtube.com/)
 
 
 <h2> 🤳 Mis redes:</h2>
