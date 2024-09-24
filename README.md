@@ -1,7 +1,7 @@
 <h1>¡Hola, soy Juan Diego! <br/><a href="https://github.com/jdsuarez11">Data Analyst</a></h1>
 
 <h2>Sobre mí:</h2>
-Soy un apasionado por los datos 
+Soy un apasionado por el análisis de datos. Manejo Power BI y Python.
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
