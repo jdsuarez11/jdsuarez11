@@ -1,4 +1,4 @@
-<h1>Hello World, ¡soy Juan Diego! <br/><a href="https://github.com/jdsuarez11">Data Analyst</a>, <a href="[(https://www.linkedin.com/in/jdsuarez2105/)](">Data Analyst</a> <a href=""></a></h1>
+<h1>¡Hola, soy Juan Diego! <br/><a href="https://github.com/jdsuarez11">Data Analyst</a>, <a href="[(https://www.linkedin.com/in/jdsuarez2105/)](">Data Analyst</a> <a href=""></a></h1>
 
 <h2>👩🏽‍💻 Mis Proyectos</h2>
 
@@ -17,12 +17,8 @@
 
 <h2> 🤳 Conecta conmigo:</h2>
 
-[<img align="left" alt="NaekMejia | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="NaekMejia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="NaekMejia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Juan Diego Suárez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/c/naekm
-[instagram]: https://www.instagram.com/naekmejia
 [linkedin]: https://linkedin.com/in/jdsuarez2105
 
 <!--
