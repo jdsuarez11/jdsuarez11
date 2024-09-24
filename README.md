@@ -12,7 +12,7 @@ Soy un apasionado por los datos
 <h2>📄 Certificados </h2>
 
 - [Ciencia de datos con python](https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/)
-- [Inteligencia de negocios con Power BI]([https://learn.ada-school.org/certifications/65b7f3bdf53818c50b7eee4c/](https://wallet.xertify.co/certificates/2F3FEFBFC001)
+- [Inteligencia de negocios con Power BI](https://wallet.xertify.co/certificates/2F3FEFBFC001)
 
 
 
